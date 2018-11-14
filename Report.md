@@ -2,7 +2,7 @@
 
 The best result I managed to obtain was solving the taks in 183 episodes. The plot below shows how the scores as the episodes elapsed.
 
-![scores X episodes](https://github.com/thiagomarzagao/p1_navigation/blob/master/Figure_1.png)
+![scores X episodes](https://github.com/thiagomarzagao/p2_continuous_control/blob/master/Figure_1.png)
 
 ### The DDPG algorithm
 
