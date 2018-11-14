@@ -28,4 +28,4 @@ The task is episodic, and in order to solve the environment, the agent must get 
 
 ### Replication instructions
 
-Install all dependencies, download `main.py`, `ddpg_agent.py`, and `model.py`, put it all in the same folder, add `Reacher.app` to that folder, and run `python main.py`.
+Install all dependencies, download `main.py`, `ddpg_agent.py`, and `model.py`, put it all in the same folder, add the Reacher app to that folder, and run `python main.py`.
